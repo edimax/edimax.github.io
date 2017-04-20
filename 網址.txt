@@ -9,3 +9,5 @@ https://edimax.github.io/EdiSmart/Release.html
 
 
 https://edimax.github.io/GLP/Release.html
+
+https://edimax.github.io/Edigreen/Release.html
