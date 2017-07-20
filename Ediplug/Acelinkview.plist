@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://edimax.github.io/Ediplug/EdiLife.ipa</string>
+					<string>https://edimax.github.io/Ediplug/smartplugin.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.edimax.AirPro.inhouse</string>
+				<string>com.edimax.plug.inhouse</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
