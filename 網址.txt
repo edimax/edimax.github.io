@@ -6,7 +6,7 @@ https://edimax.github.io/Ediplug/Release.html
 
 https://edimax.github.io/EdiSmart/Release.html
 
-
+https://edimax.github.io/animo/Release.html
 
 https://edimax.github.io/GLP/Release.html
 
